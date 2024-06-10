@@ -1,1 +1,2 @@
-# Variational Auto-Encoder (VAE) Generative Adversarial Network (GAN)
+# Variational Auto-Encoder (VAE) 
+# Generative Adversarial Network (GAN)
